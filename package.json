@@ -1,0 +1,12 @@
+{
+  "name": "@narakeet/text-to-speech-api-nodejs-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "got": "^12.1.0"
+  }
+}
